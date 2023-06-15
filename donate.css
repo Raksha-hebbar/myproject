@@ -1,0 +1,147 @@
+.a-small-gesture,
+.manual-bank-account {
+  margin: 0;
+  position: absolute;
+  top: 384px;
+  left: 362px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-red);
+}
+.manual-bank-account {
+  top: 720px;
+  left: 550px;
+  color: var(--color-gray);
+}
+.icici-1-icon {
+  position: absolute;
+  top: 1043px;
+  left: 940px;
+  width: 1001px;
+  height: 346.8px;
+  object-fit: cover;
+}
+.blank-line {
+  margin: 0;
+}
+.account-number39339739652-ifs-container,
+.account-type-currentbranchsa,
+.bank-name-state {
+  margin: 0;
+  position: absolute;
+  font-size: var(--font-size-61xl);
+  font-weight: 500;
+  font-family: var(--font-inter);
+}
+.account-number39339739652-ifs-container {
+  top: 1578px;
+  left: -109px;
+  display: inline-block;
+  width: 1824px;
+  height: 100px;
+}
+.account-type-currentbranchsa,
+.bank-name-state {
+  top: 1942px;
+  left: 117px;
+}
+.account-type-currentbranchsa {
+  top: 2142px;
+  left: 44px;
+}
+.d-1-icon {
+  position: absolute;
+  top: 1506px;
+  left: 1860px;
+  width: 970px;
+  height: 970px;
+  object-fit: cover;
+}
+.no-one-has {
+  margin: 0;
+  position: absolute;
+  top: 2720px;
+  left: 301px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-crimson);
+}
+.donate-child {
+  position: absolute;
+  top: 3117px;
+  left: 0;
+  background-color: var(--color-forestgreen);
+  width: 2944px;
+  height: 498px;
+}
+.we-save-animals2 {
+  margin: 0;
+  position: absolute;
+  top: 3377px;
+  left: 450px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  text-align: left;
+}
+.icon7 {
+  position: absolute;
+  top: 3209px;
+  left: 1409px;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.follow-us2 {
+  position: absolute;
+  top: 3233px;
+  left: 1080px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: var(--font-mulish);
+  text-align: left;
+}
+.icon8 {
+  position: absolute;
+  top: 3201px;
+  left: 1573px;
+  width: 136px;
+  height: 136px;
+  object-fit: cover;
+}
+.div,
+.icon10,
+.icon9 {
+  position: absolute;
+  top: 2944px;
+  left: 2193px;
+  width: 48px;
+  height: 48px;
+}
+.icon10,
+.icon9 {
+  top: 3208px;
+  left: 1731px;
+  width: 129px;
+  height: 129px;
+  object-fit: cover;
+}
+.icon10 {
+  top: 3214px;
+  left: 1896px;
+  width: 117px;
+  height: 117px;
+}
+.donate1 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 3615px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-109xl);
+  color: var(--color-black);
+  font-family: var(--font-mogra);
+}

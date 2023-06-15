@@ -1,0 +1,148 @@
+.index-child,
+.index-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-red);
+  width: 1440px;
+  height: 61px;
+}
+.index-item {
+  top: 638px;
+  background-color: var(--color-forestgreen);
+  height: 220px;
+}
+.icon,
+.icon1,
+.icon2 {
+  position: absolute;
+  top: 681px;
+  left: 728px;
+  width: 48px;
+  height: 43px;
+  object-fit: cover;
+}
+.icon1,
+.icon2 {
+  top: 684px;
+  left: 788px;
+}
+.icon2 {
+  top: 681px;
+  left: 848px;
+  width: 49px;
+}
+.follow-us {
+  top: 685px;
+  left: 459.43px;
+  font-size: var(--font-size-13xl);
+  display: inline-block;
+  width: 211.94px;
+  height: 30.95px;
+  transform: rotate(0.64deg);
+  transform-origin: 0 0;
+}
+.follow-us,
+.we-save-animals,
+.we-save-animalswsa {
+  margin: 0;
+  position: absolute;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+}
+.we-save-animals {
+  top: 748px;
+  left: 208px;
+  font-size: var(--font-size-13xl);
+}
+.we-save-animalswsa {
+  top: 385px;
+  left: 152px;
+  font-size: 26px;
+  color: var(--color-crimson);
+  display: inline-block;
+  width: 603px;
+  height: 168px;
+}
+.welfare-trust {
+  margin: 0;
+}
+.we-save-animalswsa-container {
+  margin: 0;
+  position: absolute;
+  top: 206px;
+  left: 144px;
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+  font-family: var(--font-mulish);
+  color: var(--color-red);
+  white-space: pre-wrap;
+}
+.shelter-timings-1000am {
+  margin: 0;
+  position: absolute;
+  top: 9px;
+  left: 119px;
+  font-size: var(--font-size-5xl);
+  font-weight: 400;
+  font-family: inherit;
+  color: var(--color-white);
+}
+.about,
+.contact-us,
+.donate,
+.home,
+.service {
+  text-decoration: none;
+  position: absolute;
+  top: 105px;
+  left: 1229px;
+  color: inherit;
+  display: inline-block;
+  width: 146px;
+}
+.about,
+.donate,
+.home,
+.service {
+  left: 1087px;
+  width: 104px;
+}
+.about,
+.home,
+.service {
+  left: 945px;
+}
+.about,
+.home {
+  left: 803px;
+}
+.home {
+  left: 661px;
+}
+.img1-7-icon,
+.logo-1-icon {
+  position: absolute;
+  top: 67px;
+  left: 132px;
+  width: 111px;
+  height: 111px;
+  object-fit: cover;
+}
+.img1-7-icon {
+  top: 180px;
+  left: 868px;
+  width: 448px;
+  height: 419px;
+}
+.index1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 858px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-gray);
+  font-family: var(--font-inter);
+}

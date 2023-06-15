@@ -1,0 +1,127 @@
+.contact-child {
+  position: absolute;
+  top: 2318px;
+  left: 0;
+  background-color: var(--color-forestgreen);
+  width: 2944px;
+  height: 498px;
+}
+.icon3 {
+  position: absolute;
+  top: 2443px;
+  left: 1408px;
+  width: 128px;
+  height: 128px;
+  object-fit: cover;
+}
+.follow-us1 {
+  margin: 0;
+  position: absolute;
+  top: 2467px;
+  left: 1069px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--color-gray);
+}
+.icon4,
+.icon5,
+.icon6 {
+  position: absolute;
+  top: 2443px;
+  left: 1573px;
+  width: 136px;
+  height: 136px;
+  object-fit: cover;
+}
+.icon5,
+.icon6 {
+  top: 2446px;
+  left: 1746px;
+  width: 129px;
+  height: 129px;
+}
+.icon6 {
+  top: 2458px;
+  left: 1912px;
+  width: 117px;
+  height: 117px;
+}
+.we-save-animals1 {
+  margin: 0;
+  position: absolute;
+  top: 2611px;
+  left: 423px;
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+  font-family: inherit;
+}
+.drop-us-a {
+  position: absolute;
+  top: 212px;
+  left: 1028px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-mogra);
+  color: var(--color-red);
+}
+.contact-inner,
+.contact-item,
+.rectangle-input {
+  position: absolute;
+  top: 756px;
+  left: 247px;
+  background-color: var(--color-gainsboro);
+  width: 927px;
+  height: 240px;
+}
+.contact-inner,
+.rectangle-input {
+  border: 0;
+}
+.rectangle-input {
+  top: 1292px;
+  left: 246px;
+}
+.enter-your-email {
+  margin: 0;
+  position: absolute;
+  top: 1153px;
+  left: 246px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.contact-child1 {
+  border: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 1825px;
+  left: 247px;
+  width: 927px;
+  height: 396px;
+}
+.enter-your-name,
+.how-can-we {
+  margin: 0;
+  position: absolute;
+  top: 617px;
+  left: 246px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.how-can-we {
+  top: 1686px;
+  left: 247px;
+}
+.contact {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 2816px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}

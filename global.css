@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-mulish: Mulish;
+  --font-mogra: Mogra;
+  --font-fredoka: Fredoka;
+  --font-maven-pro: "Maven Pro";
+  --font-goblin-one: "Goblin One";
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-13xl: 32px;
+  --font-size-61xl: 80px;
+  --font-size-109xl: 128px;
+  --font-size-45xl: 64px;
+  --font-size-115xl-6: 134.6px;
+  --font-size-82xl: 101px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray: #1e1e1e;
+  --color-red: #ff2626;
+  --color-crimson: #ea2525;
+  --color-forestgreen: #0ea426;
+  --color-lavenderblush: #ffebeb;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+}

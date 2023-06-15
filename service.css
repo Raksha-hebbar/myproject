@@ -1,0 +1,251 @@
+.welcome-to1 {
+  font-weight: 500;
+}
+.welcome-to {
+  margin: 0;
+}
+.blank-line1 {
+  margin: 0;
+  font-family: var(--font-fredoka);
+}
+.wsa-welfare-trust1 {
+  font-size: 134.63px;
+}
+.text,
+.welcome-to-wsa-container {
+  position: absolute;
+  font-size: 100.98px;
+}
+.welcome-to-wsa-container {
+  margin: 0;
+  top: 87px;
+  left: 172px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 2459.17px;
+  font-family: var(--font-goblin-one);
+}
+.text {
+  top: 351px;
+  left: 2798px;
+  font-weight: 500;
+}
+.adoption-and-awareness-container {
+  margin: 0;
+  position: absolute;
+  top: 6960px;
+  left: 1898px;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.our-volunteers {
+  margin: 0;
+  position: absolute;
+  top: 2292.98px;
+  left: 980.3px;
+  font-size: 134.63px;
+  font-weight: 800;
+  font-family: var(--font-mulish);
+  color: var(--color-red);
+}
+.service-child {
+  position: absolute;
+  top: 2619.05px;
+  left: 273.48px;
+  width: 2433.93px;
+  height: 1426.28px;
+  object-fit: cover;
+}
+.our-services {
+  margin: 0;
+  position: absolute;
+  top: 4203.1px;
+  left: 1077.07px;
+  font-size: 134.63px;
+  font-weight: 800;
+  font-family: var(--font-mulish);
+  color: var(--color-red);
+}
+.img205-1-icon {
+  position: absolute;
+  top: 687.9px;
+  left: 0;
+  width: 2980.88px;
+  height: 1491.49px;
+  object-fit: cover;
+}
+.service-item {
+  position: absolute;
+  top: 3184px;
+  left: 759px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.service-inner {
+  position: absolute;
+  top: 8081px;
+  left: 0;
+  background-color: var(--color-forestgreen);
+  width: 2981px;
+  height: 494px;
+}
+.icon11 {
+  position: absolute;
+  top: 8200px;
+  left: 1516px;
+  width: 136px;
+  height: 128px;
+  object-fit: cover;
+}
+.follow-us3,
+.we-save-animals3 {
+  margin: 0;
+  position: absolute;
+  top: 8345px;
+  left: 447px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: var(--font-mulish);
+}
+.follow-us3 {
+  top: 8215px;
+  left: 1039px;
+}
+.icon12,
+.icon13,
+.icon14 {
+  position: absolute;
+  top: 8200px;
+  left: 1365px;
+  width: 125px;
+  height: 128.4px;
+  object-fit: cover;
+}
+.icon13,
+.icon14 {
+  left: 1685px;
+  width: 129px;
+  height: 129px;
+}
+.icon14 {
+  top: 8196px;
+  left: 1840px;
+  width: 117px;
+  height: 117px;
+}
+.rectangle-section {
+  position: absolute;
+  top: 7088px;
+  left: 0;
+  background-color: var(--color-lavenderblush);
+  width: 2981px;
+  height: 993px;
+}
+.span1 {
+  color: var(--color-black);
+}
+.span2 {
+  color: var(--color-red);
+}
+.span {
+  font-size: var(--font-size-45xl);
+  font-weight: 800;
+  font-family: var(--font-mulish);
+}
+.donate3 {
+  font-size: 96px;
+  font-family: var(--font-mogra);
+  color: var(--color-gray);
+}
+.donate5 {
+  text-decoration: underline;
+}
+.donate4 {
+  color: inherit;
+}
+.donate-your-donation-container {
+  margin: 0;
+  position: absolute;
+  top: 7125px;
+  left: 335px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 2239px;
+  height: 920px;
+  font-size: inherit;
+  font-family: var(--font-maven-pro);
+}
+.img203-1-icon {
+  position: absolute;
+  top: 4700px;
+  left: 1660px;
+  width: 1228px;
+  height: 1242px;
+  object-fit: cover;
+}
+.img200-1-icon,
+.img3-2-icon,
+.swa-services1-1-icon {
+  position: absolute;
+  top: 4700px;
+  left: 143px;
+  width: 1347px;
+  height: 731px;
+  object-fit: cover;
+}
+.img3-2-icon,
+.swa-services1-1-icon {
+  top: 5900px;
+  width: 1148px;
+  height: 720px;
+}
+.swa-services1-1-icon {
+  top: 6163px;
+  left: 1749px;
+  width: 898px;
+  height: 704px;
+}
+.medical-treatments,
+.rehabilitation-centre,
+.rescue-injured-and {
+  margin: 0;
+  position: absolute;
+  font-size: inherit;
+  font-weight: 500;
+  font-family: inherit;
+}
+.rescue-injured-and {
+  top: 5515px;
+  left: 289px;
+  display: inline-block;
+  width: 1123px;
+}
+.medical-treatments,
+.rehabilitation-centre {
+  top: 5993px;
+  left: 1957px;
+}
+.medical-treatments {
+  top: 6717px;
+  left: 467px;
+}
+.service2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lavenderblush);
+  width: 2981px;
+  height: 8575px;
+  overflow: hidden;
+}
+.service1 {
+  position: relative;
+  width: 100%;
+  height: 8575px;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--color-black);
+  font-family: var(--font-fredoka);
+}

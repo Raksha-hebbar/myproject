@@ -1,0 +1,242 @@
+.welcome-to-our {
+  margin: 0;
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+}
+.span3 {
+  font-weight: 600;
+}
+.p {
+  margin: 0;
+  color: var(--color-black);
+}
+.span4 {
+  font-size: var(--font-size-5xl);
+}
+.we-save-animalswsa2 {
+  margin: 0;
+}
+.welcome-to-our-container {
+  margin: 0;
+  position: absolute;
+  top: 63px;
+  left: 388px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 706px;
+  height: 145px;
+  font-size: inherit;
+  color: var(--color-red);
+  font-family: inherit;
+}
+.img2-1-icon {
+  position: absolute;
+  top: 379px;
+  left: 117px;
+  width: 323px;
+  height: 331px;
+  object-fit: cover;
+}
+.about-the-founder,
+.affectionately-called-rider {
+  margin: 0;
+  position: absolute;
+  font-size: inherit;
+  font-family: inherit;
+}
+.about-the-founder {
+  top: 318px;
+  left: 645px;
+  font-weight: 800;
+  color: var(--color-crimson);
+}
+.affectionately-called-rider {
+  top: 433px;
+  left: 510px;
+  font-weight: 400;
+  display: inline-block;
+  width: 767px;
+}
+.praveen-kumar-l {
+  position: absolute;
+  top: 745px;
+  left: 159px;
+  font-weight: 800;
+}
+.text1 {
+  position: absolute;
+  top: 980px;
+  left: 224px;
+}
+.how-it-started,
+.it-started-for {
+  margin: 0;
+  position: absolute;
+  font-family: inherit;
+}
+.how-it-started {
+  top: 884px;
+  left: 576px;
+  font-size: 40px;
+  font-weight: 800;
+  color: var(--color-crimson);
+}
+.it-started-for {
+  top: 1760px;
+  left: 188px;
+  font-size: inherit;
+  font-weight: 400;
+  display: inline-block;
+  width: 1057px;
+}
+.img3-1-icon {
+  position: absolute;
+  top: 1010px;
+  left: 140px;
+  width: 1160px;
+  height: 707.8px;
+  object-fit: cover;
+}
+.construction-of-the {
+  margin: 0;
+  position: absolute;
+  top: 2610px;
+  left: 490px;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  color: var(--color-red);
+  text-align: left;
+  display: inline-block;
+  width: 434px;
+}
+.img100-1-icon,
+.img102-1-icon,
+.img103-1-icon {
+  position: absolute;
+  top: 2720px;
+  left: 131px;
+  width: 339px;
+  height: 220px;
+  object-fit: cover;
+}
+.img102-1-icon,
+.img103-1-icon {
+  left: 510px;
+  width: 370px;
+}
+.img103-1-icon {
+  left: 920px;
+  width: 377px;
+}
+.img104-1-icon,
+.img105-1-icon,
+.img106-1-icon {
+  position: absolute;
+  top: 3010px;
+  left: 130px;
+  width: 340px;
+  height: 200px;
+  object-fit: cover;
+}
+.img105-1-icon,
+.img106-1-icon {
+  left: 510px;
+  width: 370px;
+}
+.img106-1-icon {
+  top: 3014px;
+  left: 920px;
+  width: 377px;
+  height: 196px;
+}
+.frame-child {
+  position: relative;
+  background-color: var(--color-forestgreen);
+  width: 1440px;
+  height: 220px;
+}
+.about-inner {
+  position: absolute;
+  top: 3260px;
+  left: -18px;
+  width: 1427px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.follow-us4,
+.we-save-animals4 {
+  margin: 0;
+  position: absolute;
+  top: 3304px;
+  left: 510px;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  text-align: left;
+}
+.we-save-animals4 {
+  top: 3360px;
+  left: 200px;
+}
+.icon15,
+.icon16 {
+  top: 3300px;
+  object-fit: cover;
+}
+.icon15 {
+  position: absolute;
+  left: 869px;
+  width: 46px;
+  height: 42px;
+}
+.icon16 {
+  left: 683px;
+}
+.button,
+.icon16,
+.icon17 {
+  position: absolute;
+  width: 48px;
+  height: 48px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 3300px;
+  left: 745px;
+  background-image: url(./public/22@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.icon17 {
+  top: 3296px;
+  left: 807px;
+  object-fit: cover;
+}
+.ionchevron-back-sharp {
+  position: absolute;
+  top: 120px;
+  left: 79px;
+  width: 181px;
+  height: 152px;
+  overflow: hidden;
+}
+.about1 {
+  position: relative;
+  background-color: var(--color-lavenderblush);
+  width: 100%;
+  height: 3490px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-mulish);
+}
